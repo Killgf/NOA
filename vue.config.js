@@ -1,6 +1,6 @@
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/best-team/'  // Шлях до index.html у відношенні до кореня сайту
+    ? '/best-team/docs/'  // Шлях до index.html у відношенні до кореня сайту
     : '/'
 }
 
