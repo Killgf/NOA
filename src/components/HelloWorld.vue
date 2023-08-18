@@ -206,7 +206,7 @@
 
         },
         mounted() {
-            const deadline = new Date('August 22, 2023 00:00:00 GMT+0000');
+            const deadline = new Date('August 21, 2023 20:00:00 GMT+0000');
             this.initializeClock('countdown', deadline);
         },
         beforeDestroy() {
