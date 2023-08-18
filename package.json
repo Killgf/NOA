@@ -3,13 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "dev": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "lol1": "^1.0.0",
+    "node": "^20.5.0",
     "vue": "^3.2.13",
+    "vue-easy-lightbox": "^1.16.0",
+    "vue-image-lightbox": "^7.2.0",
     "vue-router": "^4.0.3",
+    "vue-slick": "^1.2.0",
+    "vue-slick-carousel": "^1.0.6",
     "vuex": "^4.0.0"
   },
   "devDependencies": {
