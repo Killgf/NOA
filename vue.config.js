@@ -4,6 +4,6 @@ module.exports = defineConfig({
 })
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/master/'  // Замініть 'repository-name' на назву вашого репозиторію
+    ? '/best-team/'  // Замініть 'repository-name' на назву вашого репозиторію
     : '/'
 }
