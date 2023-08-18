@@ -4,6 +4,6 @@ module.exports = defineConfig({
 })
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/dist/'  // Шлях до index.html у відношенні до кореня сайту
+    ? '/best-team/dist/'  // Шлях до index.html у відношенні до кореня сайту
     : '/'
 }
