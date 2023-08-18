@@ -100,7 +100,7 @@
                             Чат NOA Spartak
                         </div>
                         <div class="footer__chat-link">
-                            <a target="_blank" href=""><img src="..//assets/img/viber.svg" alt=""></a>
+                            <a target="_blank" href="https://invite.viber.com/?g2=AQBTbCfVQ6GM%2F03cx1oXY1Qtx6gsiwHMWoLhYaNNO0qEgQXP7THxUM1n9Pm%2B1gjO"><img src="..//assets/img/viber.svg" alt=""></a>
                         </div>
                     </div>
                     <div class="footer__social-all">
